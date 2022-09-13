@@ -35,7 +35,7 @@
                     @endauth
                 </div>
             @endif
-                <h2><b>MR.Sarawut Aiammara No.17...</b></h2>
+                <h2><b>MR.Sarawut Aiammara No. 17...</b></h2>
         </div>
     </body>
 </html>
